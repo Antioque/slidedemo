@@ -18,20 +18,25 @@ class: center, middle
 #### &nbsp; &nbsp; 1.1 那时候我还在好好学习
 #### &nbsp; &nbsp; 1.2 好好学习
 #### &nbsp; &nbsp; 1.3 好好学习
+---
 
 ### 2. 中学
 #### &nbsp; &nbsp; 1.1 一开始的时候好好学习
 <img src="http://www.sjzez.com/Upload/image/Sjzez201701051034134646.jpg" width=300 style="margin: 0px 80px">
+---
 #### &nbsp; &nbsp; 1.2 后来学了竞赛还是在好好学习？
 <img src="http://f12.baidu.com/it/u=1092135149,1053641599&fm=72" width=300 style="margin: 0px 80px">
+---
 #### &nbsp; &nbsp; 1.3 最后考试不理想，浪了一年，现在想来也是醉了
-
+---
 
 ### 3. 大学？
 #### &nbsp; &nbsp; 1.1 姑且被北大录取了
 <img src="http://www.zhongchou.cn/attachment/201403/30/17/5b3aa59b0f0f295480153a9d7f528cb094.jpg" width=300 style="margin: 0px 80px">
+---
 #### &nbsp; &nbsp; 1.2 北大也还可以嘛……（开个玩笑）
 <img src="http://img3.duitang.com/uploads/item/201508/07/20150807192009_nzCQN.jpeg" width=3000 style="margin: 0px 80px">
+---
 #### &nbsp; &nbsp; 1.3 我考试考砸了可还行
 
 ---
